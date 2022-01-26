@@ -4,5 +4,6 @@ public class ConSquash {
  public void Squash{
         System.out.println("A");
         System.out.println("B");
+        System.out.println("C");
     }
 }
